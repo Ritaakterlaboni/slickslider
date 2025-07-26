@@ -1,0 +1,36 @@
+.bg-image {
+  background-image: url('../src/assets/bgimg.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.bg-img2{
+  background-image: url('../src/assets/bg2.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.bg-img3{
+  background-image: url('../src/assets/bg3.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.bg-img4{
+  background-image: url('../src/assets/bg4.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.bg-img5{
+  background-image: url('../src/assets/bg5.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.bg-img6{
+  background-image: url('../src/assets/bg6.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
